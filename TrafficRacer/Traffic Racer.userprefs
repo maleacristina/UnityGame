@@ -1,0 +1,48 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UIManager4.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CarController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AudioManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CarSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BananaTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NextLevel2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScoreManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SceneLoaderScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TrackMove.cs" Line="6" Column="4" />
+      <File FileName="Assets\Scripts\SpawnCarsSpecial.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpawnSpecialCar1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpawnSpecialCar2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CarstriggerEnter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpecialCarEnter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIManager2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScoreManager2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CarsEnterTrigger2.cs" Line="1" Column="1" />
+      <File FileName="Assets\SpecialCarsEnter2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TortoiseSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpawnTortoises.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyTortoisesMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CarController2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TortoisesCollect.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NextLevel3.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyCarMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIManager3.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScoreManager3.cs" Line="7" Column="2" />
+      <File FileName="Assets\CarEnterTrigger3.cs" Line="1" Column="1" />
+      <File FileName="Assets\AmbulanceEnterTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\CarsSpecialEnterTrigger3.cs" Line="1" Column="1" />
+      <File FileName="Assets\OilEnterTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CarController3.cs" Line="1" Column="1" />
+      <File FileName="Assets\JalonEnterTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\NextLevel4.cs" Line="1" Column="1" />
+      <File FileName="Assets\CarMove1.cs" Line="31" Column="2" />
+      <File FileName="Assets\Scripts\UIManager4.cs" Line="31" Column="15" />
+      <File FileName="Assets\ScoreManager4.cs" Line="15" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
